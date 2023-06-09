@@ -1,6 +1,6 @@
-# Módulo: web scraping con Python
+# Web scraping con Python
 
-En este módulo aprenderemos a implementar la técnica de extracción de datos conocida como _web scraping_ usando la librería Beautiful Soup. Las sesiones serán en modalidad online, los días 10 y 10 de junio. 
+En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) aprenderemos a implementar la técnica de extracción de datos conocida como _web scraping_ usando la librería Beautiful Soup. Las sesiones serán en modalidad online, los días 10 y 17 de junio. 
 
 
 ## Enlaces ejemplos
@@ -20,17 +20,19 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 :link: [robots.txt](memoriachilena.gob.cl/)
 
 
-## Ejercicios
+## Actividades
 
 Durante las dos sesiones del módulo realizaremos una serie de ejercicios para poner en práctica lo aprendido. A continuación se encuentran los materiales relevantes para cada uno de ellos. 
 
 ### Ejercicio 1
 
 :desktop_computer: [Página web](https://rivaquiroga.github.io/taller-web-scraping/ejercicio-1.html)
+
 :page_facing_up: [Código](https://www.dropbox.com/s/uhxmzj8uuamq9xz/ejercicio-1.py?dl=0)
 
 ### Ejercicio 2
 
 :desktop_computer: [Página web](http://programminghistorian.org/es/lecciones/)
+
 :page_facing_up: [Código](https://www.dropbox.com/s/xuy2l9cs6j9rnq6/ejercicio-2.py?dl=0)
 
