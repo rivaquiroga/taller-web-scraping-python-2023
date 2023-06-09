@@ -45,7 +45,7 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ### Ejercicio 1
 
-:desktop_computer: [Página web](https://rivaquiroga.github.io/taller-web-scraping/ejercicio-1.html)
+:desktop_computer: [Página web](https://rivaquiroga.github.io/taller-web-scraping-python-2023/ejercicio-1.html)
 
 :page_facing_up: [Código](https://www.dropbox.com/s/uhxmzj8uuamq9xz/ejercicio-1.py?dl=0)
 
