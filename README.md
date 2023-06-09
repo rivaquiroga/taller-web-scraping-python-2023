@@ -4,13 +4,15 @@ En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl
 
 ## Preparación
 
-Para realizar las actividades planificadas necesitarás las librerías `request`, `beautifulsoup4` y `pandas`. Se pueden instalar desde [PyPI](https://pypi.org/) con `pip`. Durante la clase mostraremos cómo hacerlo desde Visual Studio Code usando un "ambiente virtual":
+Para realizar las actividades planificadas necesitarás las librerías `request`, `beautifulsoup4` y `pandas`. Se pueden instalar desde [PyPI](https://pypi.org/) con `pip`. 
 
 ```
 pip install beautifulsoup4
 pip install requests
 pip install pandas
 ```
+
+Durante la clase mostraremos cómo hacerlo desde Visual Studio Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode.
 
 Si vas a trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
 
@@ -20,6 +22,16 @@ Si vas a trabajar en Google Colab, no olvides agregar un signo de exclamación a
 !pip install pandas
 ```
 Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.
+
+## Atajos de teclado útiles
+
+
+| acción | Windows / Linux | Mac |
+|---|---|---|
+| Ver el código fuente | ctrl +  u | option + command + u|
+| Abrir el panel de desarrollo | F12 o ctrl + shift + i | F12 o option + command +i |
+| Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
+
 
 
 ## Enlaces ejemplos
