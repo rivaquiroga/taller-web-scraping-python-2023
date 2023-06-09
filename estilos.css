@@ -1,0 +1,22 @@
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div.nota {
+  background-color: #D5CAD0;
+  border-left: 8px solid #7d6f76;
+}
+
+p.texto-nota {
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+}
+
+p.librerias {
+  font-family: 'Source Code Pro', monospace;
+}
+
