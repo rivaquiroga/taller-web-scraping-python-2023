@@ -12,7 +12,7 @@ pip install requests
 pip install pandas
 ```
 
-Durante la clase mostraremos cómo hacerlo desde Visual Studio Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode. 
+Durante la clase mostraremos cómo hacerlo desde Visual Studio[^1] Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode. 
 
 Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
 
@@ -71,4 +71,6 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 ## Recursos adicionales
 
 Acá iremos agregando enlaces a material complementario para que puedan seguir profundizando en este tema en el futuro.
+
+[^1]: Por alguna razón que desconozco, la actualización de mayo de VSCode hizo que algunas cosas dejaran de funcionar como antes en mi computador, en particular lo que pasa al ejecutar el código con Ctrl + Enter. Si a alguien le pasa lo mismo, puede descargar la versión de enero desde acá: https://code.visualstudio.com/updates/v1_75
 
