@@ -72,5 +72,5 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 Acá iremos agregando enlaces a material complementario para que puedan seguir profundizando en este tema en el futuro.
 
-[^1]:  ~~Por alguna razón que desconozco,~~ la actualización de mayo de VSCode hizo que algunas cosas dejaran de funcionar como antes en mi computador, en particular lo que pasa al ejecutar el código con Ctrl + Enter. Si a alguien le pasa lo mismo, puede descargar la versión de enero desde acá: https://code.visualstudio.com/updates/v1_75. [Al parecer el problema es la extensión de Python para VSCode](https://github.com/microsoft/vscode-python/issues/21393).
+[^1]:  ~~Por alguna razón que desconozco,~~ la actualización de mayo de VSCode hizo que algunas cosas dejaran de funcionar como antes en mi computador, en particular lo que pasa al ejecutar el código con Ctrl + Enter. Si a alguien le pasa lo mismo, puede descargar la versión de enero desde acá: https://code.visualstudio.com/updates/v1_75. Al parecer [el problema es la extensión de Python para VSCode](https://github.com/microsoft/vscode-python/issues/21393). Esperemos que se resuelva pronto.
 
