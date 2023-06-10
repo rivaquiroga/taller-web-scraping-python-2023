@@ -12,9 +12,9 @@ pip install requests
 pip install pandas
 ```
 
-Durante la clase mostraremos cómo hacerlo desde Visual Studio Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode.
+Durante la clase mostraremos cómo hacerlo desde Visual Studio Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode. 
 
-Si vas a trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
+Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
 
 ```
 !pip install beautifulsoup4
@@ -25,11 +25,12 @@ Esto le indica a Google Colab que ese no es código de Python, sino código que 
 
 ## Atajos de teclado útiles
 
+Los siguientes atajos de teclado serán útiles al explorar las páginas web que _escrapearemos_.
 
-| acción | Windows / Linux | Mac |
+| Acción | Windows / Linux | Mac |
 |---|---|---|
 | Ver el código fuente | ctrl +  u | option + command + u|
-| Abrir el panel de desarrollo | F12 o ctrl + shift + i | F12 o option + command +i |
+| Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
 | Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
 
 
