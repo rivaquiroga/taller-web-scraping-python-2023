@@ -71,3 +71,4 @@ pip install selenium
 ````
 
 También es necesario que tengas instalado el navegador Firefox. El ejemplo no funcionará ni con Chrome, ni con Edge ni con Safari. (Se puede hacer con Chrome, pero hay que instalar más cosas. Queda como tarea para el futuro).
+¡Ah! Y lo más importante: para implementar este ejemplo tienes que estar en VS Code. No va a resultar en Google Colab (porque hay que hacer configuraciones adicionales y porque internamente Colab usa Chrome).
