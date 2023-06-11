@@ -61,3 +61,13 @@ pip install pandas
 ```
 
 Si te surge cualquier error durante el proceso, puedes poner la captura de pantalla en nuestro documento compartido. 
+
+### Una librería adicional
+
+Al final de la próxima clase mostraré como se ve el proceso de interactuar con una página dinámica para hacer web scraping. Si quieres replicar el ejemplo luego de la clase (quedará el código disponible), es necesario que instales selenium con:
+
+```
+pip install selenium
+````
+
+También es necesario que tengas instalado el navegador Firefox. El ejemplo no funcionará ni con Chrome, ni con Edge ni con Safari. (Se puede hacer con Chrome, pero hay que instalar más cosas. Queda como tarea para el futuro).
