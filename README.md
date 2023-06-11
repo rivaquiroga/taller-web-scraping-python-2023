@@ -21,7 +21,7 @@ Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamaci�
 ```
 Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.
 
-Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera clase mostraremos cómo hacerlo. También puedes revisar las indicaciones en este documento.
+Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera clase mostraremos cómo hacerlo. También puedes revisar [las indicaciones en este documento](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/crear-entorno-virtual.md).
 
 
 ## Atajos de teclado útiles

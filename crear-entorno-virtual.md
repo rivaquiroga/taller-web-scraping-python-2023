@@ -1,6 +1,7 @@
 # Configuración de un entorno virtual en Visual Studio Code
 
-> NOTA: Al momento de escribir estas indicaciones (11/06/2023) existe un _bug_ en la extensión de Python de VSCode [que varias personas ya han reportado](https://github.com/microsoft/vscode-python/issues/21393). El problema hace que no se pueda ejecutar el código con `Shift + Enter`, ya que este no es enviado a la consola de Python sino al Terminal del computador. El error se produce al actualizar a la última versión de VSCode. Si a alguien le pasa esto, la sugerencia es volver a la versión de enero (1.75) hasta que se resuelva este problema. Pueden descargar esa versión desde acá: <https://code.visualstudio.com/updates/v1_75>.
+> NOTA: Al momento de escribir estas indicaciones (11/06/2023) existe un _bug_ en la extensión de Python de VSCode [que varias personas ya han reportado](https://github.com/microsoft/vscode-python/issues/21393). El problema hace que no se pueda ejecutar el código con `Shift + Enter`, ya que este no es enviado a la consola de Python sino al Terminal del computador. El error se produce al actualizar a la última versión de VSCode. Si a alguien le pasa esto, la sugerencia es volver a la versión de enero (1.75) hasta que se resuelva este problema. Pueden descargar esa versión desde acá: <https://code.visualstudio.com/updates/v1_75>. Para evitar que se actualice automáticamente mientras esperamos el arreglo, hay que ir al menú de configuración (`Ctrl/Cmd + ,` o desde el ícono :gear: abajo a la izquierda), escribir "Actualizar" en el buscador, hacer clic en el resultado bajo "Aplicación" y en **Update: mode** cambiar la opción a _manual_. 
+
 
 ## Instalación de cosas
 
