@@ -12,8 +12,6 @@ pip install requests
 pip install pandas
 ```
 
-Durante la clase mostraremos cómo hacerlo desde Visual Studio[^1] Code usando un "ambiente virtual". Para ello, es necesario tener instalada la extensión de Python en VSCode. 
-
 Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
 
 ```
@@ -22,6 +20,9 @@ Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamaci�
 !pip install pandas
 ```
 Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.
+
+Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera clase mostraremos cómo hacerlo. También puedes revisar las indicaciones en este documento.
+
 
 ## Atajos de teclado útiles
 
@@ -32,7 +33,6 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 | Ver el código fuente | ctrl +  u | command + u|
 | Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
 | Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
-
 
 
 ## Enlaces ejemplos
@@ -49,12 +49,11 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 
 :link: [Licenciamiento y uso del contenido 2](https://prensa.presidencia.cl/)
 
-:link: [robots.txt](https://memoriachilena.gob.cl/)
-
+:link: [robots.txt](https://www.memoriachilena.gob.cl/robots.txt)
 
 ## Actividades
 
-Durante las dos sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, así que antes que el contenido de los archivos se irá actualizando a medida que escribimos en ellos. 
+Durante las dos sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
 
 ### Ejercicio 1: extraer datos de un sitio "mínimo"
 
@@ -82,11 +81,9 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :page_facing_up: Código escrito en clases
 
-### Ejercicio 5: demostración de cómo funciona la extracción en una página dinámica
+### Ejercicio 5: (si alcanzamos)
 
 ## Recursos adicionales
 
 Acá iremos agregando enlaces a material complementario para que puedan seguir profundizando en este tema en el futuro.
-
-[^1]:  ~~Por alguna razón que desconozco,~~ la actualización de mayo de VSCode hizo que algunas cosas dejaran de funcionar como antes en mi computador, en particular lo que pasa al ejecutar el código con Ctrl + Enter. Si a alguien le pasa lo mismo, puede descargar la versión de enero desde acá: https://code.visualstudio.com/updates/v1_75. Al parecer [el problema es la extensión de Python para VSCode](https://github.com/microsoft/vscode-python/issues/21393). Esperemos que se resuelva pronto.
 
