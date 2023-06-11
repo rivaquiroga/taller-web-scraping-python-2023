@@ -29,7 +29,7 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 | Acción | Windows / Linux | Mac |
 |---|---|---|
-| Ver el código fuente | ctrl +  u | option + command + u|
+| Ver el código fuente | ctrl +  u | command + u|
 | Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
 | Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
 
