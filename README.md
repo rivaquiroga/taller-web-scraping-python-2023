@@ -71,6 +71,8 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/xuy2l9cs6j9rnq6/ejercicio-2.py?dl=0)
 
+:sparkles: Versión final del código (pronto)
+
 ### Ejercicio 3: extraer tablas
 
 :desktop_computer: Página web
@@ -83,7 +85,11 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :page_facing_up: Código escrito en clases
 
-### Ejercicio 5: (si alcanzamos)
+### Ejercicio 5: demo selenium
+
+:desktop_computer: Página web
+
+:page_facing_up: Código
 
 ## Recursos adicionales
 
