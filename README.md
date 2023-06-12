@@ -10,6 +10,7 @@ Para realizar las actividades planificadas necesitarás las librerías `request`
 pip install beautifulsoup4
 pip install requests
 pip install pandas
+pip install lxml
 ```
 
 Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
@@ -18,6 +19,7 @@ Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamaci�
 !pip install beautifulsoup4
 !pip install requests
 !pip install pandas
+!pip install lxml
 ```
 Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.
 
