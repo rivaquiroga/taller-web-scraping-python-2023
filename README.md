@@ -75,13 +75,13 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ### Ejercicio 3: extraer tablas
 
-:desktop_computer: Página web
+:desktop_computer: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
 :page_facing_up: Código escrito en clases
 
 ### Ejercicio 4: descargar archivos a partir de enlaces extraídos
 
-:desktop_computer: Página web
+:desktop_computer: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html#documentos)
 
 :page_facing_up: Código escrito en clases
 
