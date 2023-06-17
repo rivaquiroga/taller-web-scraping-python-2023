@@ -60,6 +60,7 @@ Para instalar las librerías, debes escribir ahí directamente el código para h
 pip install beautifulsoup4
 pip install requests
 pip install pandas
+pip install lxml
 ```
 
 Si te surge cualquier error durante el proceso, puedes poner la captura de pantalla en nuestro documento compartido. 
@@ -72,5 +73,5 @@ Al final de la próxima clase mostraré como se ve el proceso de interactuar con
 pip install selenium
 ````
 
-También es necesario que tengas instalado el navegador Firefox. El ejemplo no funcionará ni con Chrome, ni con Edge ni con Safari. (Se puede hacer con Chrome, pero hay que instalar más cosas. Queda como tarea para el futuro).
+También es necesario que tengas instalado el navegador Firefox. El ejemplo no funcionará ni con Chrome, ni con Edge ni con Safari. (Se puede hacer con Chrome, pero hay que instalar más cosas. Queda como tarea para que lo explores en el futuro).
 ¡Ah! Y lo más importante: para implementar este ejemplo tienes que estar en VS Code. No va a resultar en Google Colab (porque hay que hacer configuraciones adicionales y porque internamente Colab usa Chrome).

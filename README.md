@@ -59,7 +59,7 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ### Ejercicio 1: extraer datos de un sitio "mínimo"
 
-:desktop_computer: [Página web](https://rivaquiroga.github.io/taller-web-scraping-python-2023/ejercicio-1.html)
+:link: [Página web](https://rivaquiroga.github.io/taller-web-scraping-python-2023/ejercicio-1.html)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/uhxmzj8uuamq9xz/ejercicio-1.py?dl=0)
 
@@ -67,7 +67,7 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ### Ejercicio 2: el mismo ejercicio, pero ahora en un sitio de verdad
 
-:desktop_computer: [Página web](http://programminghistorian.org/es/lecciones/)
+:link: [Página web](http://programminghistorian.org/es/lecciones/)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/xuy2l9cs6j9rnq6/ejercicio-2.py?dl=0)
 
@@ -75,21 +75,25 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ### Ejercicio 3: extraer tablas
 
-:desktop_computer: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
+:link: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/i48a6dxqiafk7dg/ejercicio-3.py?dl=0)
 
 ### Ejercicio 4: descargar archivos a partir de enlaces extraídos
 
-:desktop_computer: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html#documentos)
+:link: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html#documentos)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/hf9tg7acq53gp41/ejercicio-4.py?dl=0)
 
+:desktop_computer: [Video sobre uso de try/except en nuestro código de descarga](https://vimeo.com/837228532/5b37603e4d)
+
+:sparkles: [Versión final del código](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/ejercicio-4-final.py)
+
 ### Ejercicio 5: demo selenium
 
-:desktop_computer: Página web ejemplo a / Página web ejemplo b
+:link: [Página web ejemplo a](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx) / [Página web ejemplo b](https://www.memoriachilena.gob.cl)
 
-:page_facing_up: Código ejemplo a / Código ejemplo b
+:page_facing_up: [Código ejemplo a](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/ejercicio-5a-selenium.py) / [Código ejemplo b](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/ejercicio-5b-selenium.py)
 
 ## Recursos adicionales
 
