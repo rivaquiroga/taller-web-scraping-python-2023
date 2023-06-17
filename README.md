@@ -63,7 +63,7 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/uhxmzj8uuamq9xz/ejercicio-1.py?dl=0)
 
-:sparkles: Versión final del código (pronto)
+:sparkles: [Versión final del código](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/ejercicio-1-final.py)
 
 ### Ejercicio 2: el mismo ejercicio, pero ahora en un sitio de verdad
 
@@ -71,13 +71,13 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/xuy2l9cs6j9rnq6/ejercicio-2.py?dl=0)
 
-:sparkles: Versión final del código (pronto)
+:sparkles: [Versión final del código](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/ejercicio-2-final.py)
 
 ### Ejercicio 3: extraer tablas
 
 :desktop_computer: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:page_facing_up: Código escrito en clases
+:page_facing_up: [Código escrito en clases]()
 
 ### Ejercicio 4: descargar archivos a partir de enlaces extraídos
 
