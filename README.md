@@ -77,19 +77,19 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 :desktop_computer: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/i48a6dxqiafk7dg/ejercicio-3.py?dl=0)
 
 ### Ejercicio 4: descargar archivos a partir de enlaces extraídos
 
 :desktop_computer: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html#documentos)
 
-:page_facing_up: Código escrito en clases
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/hf9tg7acq53gp41/ejercicio-4.py?dl=0)
 
 ### Ejercicio 5: demo selenium
 
-:desktop_computer: Página web
+:desktop_computer: Página web ejemplo a / Página web ejemplo b
 
-:page_facing_up: Código
+:page_facing_up: Código ejemplo a / Código ejemplo b
 
 ## Recursos adicionales
 
