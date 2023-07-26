@@ -97,5 +97,7 @@ Durante las dos sesiones del módulo realizaremos una serie de actividades para 
 
 ## Recursos adicionales
 
-Acá iremos agregando enlaces a material complementario para que puedan seguir profundizando en este tema en el futuro.
+### Documentación librerías utilizadas
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+[Selenium](https://www.selenium.dev/documentation/)
